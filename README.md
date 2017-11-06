@@ -7,9 +7,9 @@ New to Dublin and want to discover the best restaurants per category or just a f
 - [The Counter](http://www.thecounter.com/)
 
 ## Steak House 
-- [F.X. Buckley] https://www.fxbuckley.ie/
-- [Chophouse] http://thechophouse.ie/
-- [Feather Blade] http://www.featherblade.ie/
+- [F.X. Buckley](https://www.fxbuckley.ie/)
+- [Chophouse](http://thechophouse.ie/)
+- [Feather Blade](http://www.featherblade.ie/)
 
 ## BBQ 
 - [Pitt Bros](http://www.pittbrosbbq.com/#home)
