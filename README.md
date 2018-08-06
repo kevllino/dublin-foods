@@ -5,6 +5,7 @@ New to Dublin and want to discover the best restaurants per category or just a f
 ## Burgers
 - [Bunsen](http://www.bunsen.ie/)
 - [The Counter](http://www.thecounter.com/)
+- [Farmers Brown](https://www.farmerbrowns.ie/bath-avenue)
 
 ## Steak House 
 - [F.X. Buckley](https://www.fxbuckley.ie/)
